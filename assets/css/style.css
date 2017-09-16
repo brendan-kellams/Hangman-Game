@@ -78,7 +78,7 @@ p{
   list-style:none;
   width:35px;
   height:30px;
-  padding-top:10px;
+  padding-top: 10px;
   background: white;
   color: black;
   cursor:pointer;
@@ -92,10 +92,16 @@ p{
 }
 
 #my-word {
+<<<<<<< HEAD
   margin: 0;
   display: block;
   padding-top: 130px;
   display:block;
+=======
+  padding-top: 130px;
+  margin: 0;
+  display: block;
+>>>>>>> 6219c52cd14cc5cfcb84cb5ee41956b804ff60b1
 }
 
 #my-word li {
