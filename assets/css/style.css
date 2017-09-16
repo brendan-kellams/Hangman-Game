@@ -78,6 +78,7 @@ p{
   list-style:none;
   width:35px;
   height:30px;
+  padding-top: 10px;
   background: white;
   color: black;
   cursor:pointer;
